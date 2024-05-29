@@ -23,12 +23,14 @@
 
 1. Abre una terminal en el directorio del proyecto
 2. Ejecuta el siguiente comando para instalar sqlalchemy:
-        pip install sqlalchemy
+
+pip install sqlalchemy
 
 #### Paso1: Descargar Dependencias
 1. Abre una terminal en el directorio del proyecto
 2. Ejecuta el siguiente comando:
-        python principal.py
+
+python principal.py
 
 ## Resumen de cumplimiento de SOLID, patrones de diseño y arquitectura.
 
@@ -50,7 +52,7 @@
 - Patrón Cadena de Responsabilidad: Se utiliza en servicios.py para encadenar operaciones relacionadas.
 - Patrón Decorador: Se aplica en decoradores.py para extender el comportamiento de los servicios de negocio sin modificar su código base.
 
-### Arquitectura en tres capas
+### Arquitectura de tres capas
 
 - Capa de acceso a datos: capa_datos
 - Capa de negocio: capa_negocio
