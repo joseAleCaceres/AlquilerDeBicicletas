@@ -17,12 +17,12 @@
 3. Haz clic en **"Install Now"**.
 4. Espera a que se complete la instalación.
 
-### Ejecutar el Programa
+### Ejecutar el Proyecto
 
 #### Paso1: Descargar Dependencias
 
 1. Abre una terminal en el directorio del proyecto
-2. Ejecuta el sigute comando para isntalar sqlalchemy
+2. Ejecuta el siguiente comando para instalar sqlalchemy:
         pip install sqlalchemy
 
 #### Paso1: Descargar Dependencias
